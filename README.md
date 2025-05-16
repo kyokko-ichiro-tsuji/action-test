@@ -1,1 +1,2 @@
-# action-test
+これはREADMEファイルです。
+コンフリクトブランチActionでの変更です。
